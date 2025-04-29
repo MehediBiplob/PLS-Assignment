@@ -1,8 +1,4 @@
-# Memory Allocation Categories – Java vs JavaScript
-
-This project contains simple programs demonstrating **four major memory allocation categories** using **Java** and **JavaScript**.
-
-## 🧠 Memory Allocation Categories
+# Assignment 
 
 ### 1. Fixed Dynamic
 - **Definition**: Memory is allocated at runtime with a fixed size that cannot change afterward.
@@ -22,7 +18,7 @@ This project contains simple programs demonstrating **four major memory allocati
 
 ---
 
-## 🔍 Comparison Between Java and JavaScript
+## Comparison Between Java and JavaScript
 
 | Category         | Java Example                  | JavaScript Example            | Notes                                                                 |
 |------------------|-------------------------------|--------------------------------|-----------------------------------------------------------------------|
@@ -33,7 +29,7 @@ This project contains simple programs demonstrating **four major memory allocati
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 ```
 /java/
@@ -51,11 +47,8 @@ This project contains simple programs demonstrating **four major memory allocati
 
 ---
 
-## ✅ Summary
-
-Both **Java** and **JavaScript** support various forms of memory allocation. However:
+## Conclusion 
 
 - **Java** is statically typed and distinguishes stack vs. heap explicitly.
 - **JavaScript** is more flexible and loosely typed, using heap more uniformly behind the scenes.
 
-These examples help understand how **memory behavior** differs and aligns between two popular languages.
